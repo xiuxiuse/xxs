@@ -7,7 +7,7 @@
             window.open('https://www.xxs.icu', "_self");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://www.xxs.vin', "_self");
+            window.open('https://www.xiuxiuse2.com', "_self");
         }
         document.getElementById("btnEnter4").onclick = function() {
             window.open('https://www.xxse.org', "_self");
